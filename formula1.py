@@ -1,5 +1,4 @@
 
-#algoritmo de la formula 1
 class Formula1:
     def __init__(self, nombre, edad):
         self.nombre = nombre
