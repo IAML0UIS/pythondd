@@ -1,4 +1,4 @@
-#algoritmo usnado las clases en programacion orientada a objetos
+#algoritmo usando las clases en programacion orientada a objetos
 class Formula1:
     def __init__(self, nombre, edad):
         self.nombre = nombre
